@@ -1,0 +1,49 @@
+body{
+    font-family:'Times New Roman', Times, serif
+    
+}
+
+header {
+    text-align: center;
+    
+}
+main {
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        
+      }
+main img {
+        width: 100%;
+      }
+      
+caption {
+    font-weight: bold;
+
+}
+
+hr {border-top:1px solid #FFD877;
+}
+
+
+#fabulous {
+        background-color: gold;
+        
+      }
+      
+#featured{
+    color: chocolate;
+    font-weight: bold;
+}
+#fresh{
+    color: darkcyan;
+    text-decoration: underline;
+ }
+#made{
+    font-weight: bold;
+
+}
+
+#blu{
+    background-color:1px aqua;
+}
